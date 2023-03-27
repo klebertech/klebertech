@@ -6,8 +6,8 @@ import { SoftwareDeveloper } from '@klebertech';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Kleber Tavares',
-  title    = 'Software Engineer',
-  location = 'Curitiba, PR',
+  title    = 'Software Developer',
+  location = 'Curitiba - PR, Brazil',
   website  = 'https://klebertech.vercel.app/',
   email = 'kleberst88@gmail.com',
 }
