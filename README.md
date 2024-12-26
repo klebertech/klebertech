@@ -1,5 +1,3 @@
-### Hi there 👋 I'm Kleber Tavares
-
 
 ```js
 import { SoftwareDeveloper } from '@klebertech';
@@ -14,7 +12,7 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'PHP'],
   databases  = ['MySQL', 'PostgreSQL', 'MongoDB'],
-  frameworks = ['React'],
+  frameworks = ['React', 'Angular'],
   styles     = ['Sass', 'Tailwind', 'Bootstrap'],
 }
 ```
